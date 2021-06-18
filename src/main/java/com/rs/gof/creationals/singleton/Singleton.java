@@ -1,4 +1,4 @@
-package com.rs.gof.creationals;
+package com.rs.gof.creationals.singleton;
 
 public class Singleton {
 	
